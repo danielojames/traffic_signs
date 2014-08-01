@@ -13,7 +13,7 @@ def hello():
     return "Hello from Python!"
 
 @app.route("/settings")
-def hello():
+def settings():
     return "Setup Python!"
 
 # launch
